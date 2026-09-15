@@ -3,11 +3,11 @@
   "ntfy_server": "https://ntfy.sh",
   "targets": [
     {
-      "label": "오디세이 · 용산 IMAX",
+      "label": "오디세이 · 대구 IMAX",
       "movNo": "30001323",
       "movNm": "오디세이",
-      "siteNo": "0013",
-      "siteNm": "CGV 용산아이파크몰",
+      "siteNo": "0345",
+      "siteNm": "CGV 대구",
       "screen_match": "IMAX",
       "days_ahead": 30,
       "lookahead_pad": 3,
