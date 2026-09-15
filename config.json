@@ -10,33 +10,7 @@
       "siteNm": "CGV 대구",
       "screen_match": "IMAX",
       "days_ahead": 30,
-      "lookahead_pad": 3,
-      "filter": {
-        "_note": "rules 는 OR 조건. 하나라도 맞으면 알림 대상.",
-        "rules": [
-          {
-            "_label": "주말은 아침~밤",
-            "weekdays": [
-              "토",
-              "일"
-            ],
-            "time_from": "0800",
-            "time_to": "2359"
-          },
-          {
-            "_label": "평일은 저녁 6시부터",
-            "weekdays": [
-              "월",
-              "화",
-              "수",
-              "목",
-              "금"
-            ],
-            "time_from": "1800",
-            "time_to": "2359"
-          }
-        ]
-      }
+      "lookahead_pad": 3
     }
   ],
   "notify": {
@@ -46,6 +20,6 @@
     "seats_freed_min_gain": 1,
     "cooldown_seconds": 300
   },
-  "full_scan_every_n_runs": 10,
+  "full_scan_every_n_runs": 1,
   "alert_after_consecutive_failures": 5
 }
