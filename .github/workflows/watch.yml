@@ -4,9 +4,10 @@ name: CGV 감시
 # 통째로 누락될 수 있다. 그래서 정시를 피해 2분씩 밀어둔다.
 on:
   schedule:
-    - cron: "2-57/5 * * * *"
+    - cron: "3-58/5 * * * *"
   workflow_dispatch:
-
+  
+# schedule sync
 # state 파일을 레포에 다시 커밋해야 하므로 쓰기 권한이 필요하다.
 permissions:
   contents: write
