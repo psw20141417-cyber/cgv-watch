@@ -844,7 +844,7 @@
     },
     "30001323|0345": {
       "20260917_007_0930": {
-        "free": 107,
+        "free": 106,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -854,7 +854,7 @@
         "last_notified": 0
       },
       "20260917_007_1250": {
-        "free": 133,
+        "free": 134,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -864,7 +864,7 @@
         "last_notified": 0
       },
       "20260917_007_1610": {
-        "free": 133,
+        "free": 132,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -884,7 +884,7 @@
         "last_notified": 0
       },
       "20260917_007_2250": {
-        "free": 181,
+        "free": 184,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -924,7 +924,7 @@
         "last_notified": 0
       },
       "20260918_007_1930": {
-        "free": 62,
+        "free": 64,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -934,7 +934,7 @@
         "last_notified": 0
       },
       "20260918_007_2250": {
-        "free": 107,
+        "free": 106,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -974,7 +974,7 @@
         "last_notified": 0
       },
       "20260919_007_1930": {
-        "free": 44,
+        "free": 46,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -1104,7 +1104,7 @@
         "last_notified": 0
       },
       "20260922_007_1250": {
-        "free": 169,
+        "free": 168,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -1114,7 +1114,7 @@
         "last_notified": 0
       },
       "20260922_007_1610": {
-        "free": 168,
+        "free": 170,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -1145,7 +1145,7 @@
       }
     }
   },
-  "runs": 78,
+  "runs": 79,
   "consecutive_failures": 0,
-  "last_ok": "2026-09-16T23:52:32+09:00"
+  "last_ok": "2026-09-17T00:09:36+09:00"
 }
