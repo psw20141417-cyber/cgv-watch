@@ -844,7 +844,7 @@
     },
     "30001323|0345": {
       "20260917_007_0930": {
-        "free": 106,
+        "free": 108,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -854,7 +854,7 @@
         "last_notified": 0
       },
       "20260917_007_1250": {
-        "free": 134,
+        "free": 133,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -884,7 +884,7 @@
         "last_notified": 0
       },
       "20260917_007_2250": {
-        "free": 181,
+        "free": 184,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -894,7 +894,7 @@
         "last_notified": 0
       },
       "20260918_007_0930": {
-        "free": 124,
+        "free": 125,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -1064,7 +1064,7 @@
         "last_notified": 0
       },
       "20260921_007_1610": {
-        "free": 163,
+        "free": 165,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -1114,7 +1114,7 @@
         "last_notified": 0
       },
       "20260922_007_1610": {
-        "free": 166,
+        "free": 164,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -1145,7 +1145,7 @@
       }
     }
   },
-  "runs": 103,
+  "runs": 104,
   "consecutive_failures": 0,
-  "last_ok": "2026-09-17T06:57:40+09:00"
+  "last_ok": "2026-09-17T07:17:44+09:00"
 }
