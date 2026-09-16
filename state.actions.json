@@ -864,7 +864,7 @@
         "last_notified": 0
       },
       "20260917_007_1610": {
-        "free": 134,
+        "free": 130,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -914,7 +914,7 @@
         "last_notified": 0
       },
       "20260918_007_1610": {
-        "free": 111,
+        "free": 110,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -924,7 +924,7 @@
         "last_notified": 0
       },
       "20260918_007_1930": {
-        "free": 64,
+        "free": 66,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -974,7 +974,7 @@
         "last_notified": 0
       },
       "20260919_007_1930": {
-        "free": 46,
+        "free": 44,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -1024,7 +1024,7 @@
         "last_notified": 0
       },
       "20260920_007_1930": {
-        "free": 72,
+        "free": 71,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -1054,7 +1054,7 @@
         "last_notified": 0
       },
       "20260921_007_1250": {
-        "free": 162,
+        "free": 163,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -1074,7 +1074,7 @@
         "last_notified": 0
       },
       "20260921_007_1930": {
-        "free": 113,
+        "free": 114,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -1094,7 +1094,7 @@
         "last_notified": 0
       },
       "20260922_007_0930": {
-        "free": 170,
+        "free": 169,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -1124,7 +1124,7 @@
         "last_notified": 0
       },
       "20260922_007_1930": {
-        "free": 122,
+        "free": 120,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -1145,7 +1145,7 @@
       }
     }
   },
-  "runs": 80,
+  "runs": 81,
   "consecutive_failures": 0,
-  "last_ok": "2026-09-17T00:28:21+09:00"
+  "last_ok": "2026-09-17T00:45:40+09:00"
 }
