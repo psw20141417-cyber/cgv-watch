@@ -39,11 +39,7 @@ jobs:
       - name: 의존성 설치
         run: |
           pip install --quiet -r requirements.txt
-          if [ "${{ steps.pwcache.outputs.cache-hit }}" != "true" ]; then
-            python -m playwright install --with-deps chromium
-          else
-            python -m playwright install-deps chromium
-          fi
+          python -m playwright install --with-deps chromium
 
       - name: 감시 실행
         env:
