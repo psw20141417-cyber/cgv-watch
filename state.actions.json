@@ -843,16 +843,6 @@
       }
     },
     "30001323|0345": {
-      "20260917_007_2250": {
-        "free": 154,
-        "total": 241,
-        "screen": "IMAX관",
-        "fmt": "IMAX LASER 2D",
-        "start": "2250",
-        "movNm": "오디세이",
-        "siteNm": "CGV 대구",
-        "last_notified": 0
-      },
       "20260918_007_0930": {
         "free": 104,
         "total": 241,
@@ -894,7 +884,7 @@
         "last_notified": 0
       },
       "20260918_007_2250": {
-        "free": 97,
+        "free": 95,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -914,7 +904,7 @@
         "last_notified": 0
       },
       "20260919_007_1250": {
-        "free": 40,
+        "free": 42,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -934,7 +924,7 @@
         "last_notified": 0
       },
       "20260919_007_1930": {
-        "free": 40,
+        "free": 39,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -944,7 +934,7 @@
         "last_notified": 0
       },
       "20260919_007_2250": {
-        "free": 83,
+        "free": 80,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -1054,7 +1044,7 @@
         "last_notified": 0
       },
       "20260922_007_0930": {
-        "free": 158,
+        "free": 157,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -1064,7 +1054,7 @@
         "last_notified": 0
       },
       "20260922_007_1250": {
-        "free": 164,
+        "free": 163,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -1084,7 +1074,7 @@
         "last_notified": 0
       },
       "20260922_007_1930": {
-        "free": 100,
+        "free": 99,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -1105,7 +1095,7 @@
       }
     }
   },
-  "runs": 157,
+  "runs": 158,
   "consecutive_failures": 0,
-  "last_ok": "2026-09-17T22:56:01+09:00"
+  "last_ok": "2026-09-17T23:18:02+09:00"
 }
