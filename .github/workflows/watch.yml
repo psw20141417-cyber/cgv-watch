@@ -29,13 +29,6 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Chromium 캐시 복원
-        id: pwcache
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/ms-playwright
-          key: playwright-chromium-${{ runner.os }}-v1
-
       - name: 의존성 설치
         run: |
           pip install --quiet -r requirements.txt
