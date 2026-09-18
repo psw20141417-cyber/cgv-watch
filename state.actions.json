@@ -1096,6 +1096,7 @@
     }
   },
   "runs": 239,
-  "consecutive_failures": 0,
-  "last_ok": "2026-09-19T00:12:02+09:00"
+  "consecutive_failures": 1,
+  "last_ok": "2026-09-19T00:12:02+09:00",
+  "last_error": "RuntimeError: Cloudflare 차단 페이지에 걸림"
 }
