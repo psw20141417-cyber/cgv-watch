@@ -1054,7 +1054,7 @@
         "last_notified": 1789717944
       },
       "20260923_007_1300": {
-        "free": 208,
+        "free": 206,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -1095,8 +1095,7 @@
       }
     }
   },
-  "runs": 251,
-  "consecutive_failures": 2,
-  "last_ok": "2026-09-19T05:03:00+09:00",
-  "last_error": "RuntimeError: Cloudflare 차단 페이지에 걸림"
+  "runs": 252,
+  "consecutive_failures": 0,
+  "last_ok": "2026-09-19T05:50:48+09:00"
 }
