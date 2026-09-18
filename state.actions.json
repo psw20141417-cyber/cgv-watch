@@ -843,16 +843,6 @@
       }
     },
     "30001323|0345": {
-      "20260918_007_1610": {
-        "free": 79,
-        "total": 241,
-        "screen": "IMAX관",
-        "fmt": "IMAX LASER 2D",
-        "start": "1610",
-        "movNm": "오디세이",
-        "siteNm": "CGV 대구",
-        "last_notified": 0
-      },
       "20260918_007_1930": {
         "free": 50,
         "total": 241,
@@ -864,7 +854,7 @@
         "last_notified": 0
       },
       "20260918_007_2250": {
-        "free": 82,
+        "free": 83,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -874,7 +864,7 @@
         "last_notified": 0
       },
       "20260919_007_0930": {
-        "free": 44,
+        "free": 45,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -894,7 +884,7 @@
         "last_notified": 0
       },
       "20260919_007_1610": {
-        "free": 27,
+        "free": 29,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -1075,7 +1065,7 @@
       }
     }
   },
-  "runs": 220,
+  "runs": 221,
   "consecutive_failures": 0,
-  "last_ok": "2026-09-18T16:21:49+09:00"
+  "last_ok": "2026-09-18T16:38:28+09:00"
 }
