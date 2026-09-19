@@ -874,7 +874,7 @@
         "last_notified": 0
       },
       "20260920_007_1930": {
-        "free": 58,
+        "free": 51,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -1045,7 +1045,7 @@
       }
     }
   },
-  "runs": 285,
+  "runs": 286,
   "consecutive_failures": 0,
-  "last_ok": "2026-09-20T00:32:33+09:00"
+  "last_ok": "2026-09-20T00:45:46+09:00"
 }
