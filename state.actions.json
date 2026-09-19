@@ -864,7 +864,7 @@
         "last_notified": 0
       },
       "20260920_007_1610": {
-        "free": 36,
+        "free": 38,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -924,7 +924,7 @@
         "last_notified": 0
       },
       "20260921_007_1930": {
-        "free": 90,
+        "free": 88,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -1024,7 +1024,7 @@
         "last_notified": 1789717944
       },
       "20260923_007_1940": {
-        "free": 88,
+        "free": 86,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -1045,7 +1045,7 @@
       }
     }
   },
-  "runs": 284,
+  "runs": 285,
   "consecutive_failures": 0,
-  "last_ok": "2026-09-20T00:17:40+09:00"
+  "last_ok": "2026-09-20T00:32:33+09:00"
 }
