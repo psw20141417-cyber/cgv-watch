@@ -944,7 +944,7 @@
         "last_notified": 0
       },
       "20260923_007_0940": {
-        "free": 157,
+        "free": 153,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -974,7 +974,7 @@
         "last_notified": 1789717944
       },
       "20260923_007_1940": {
-        "free": 75,
+        "free": 73,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -994,7 +994,7 @@
         "last_notified": 1789717944
       },
       "20260924_007_0930": {
-        "free": 111,
+        "free": 108,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -1004,7 +1004,7 @@
         "last_notified": 1789891138
       },
       "20260924_007_1250": {
-        "free": 111,
+        "free": 107,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -1024,7 +1024,7 @@
         "last_notified": 1789891138
       },
       "20260924_007_1930": {
-        "free": 108,
+        "free": 106,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -1034,7 +1034,7 @@
         "last_notified": 1789891138
       },
       "20260924_007_2300": {
-        "free": 189,
+        "free": 187,
         "total": 241,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -1045,8 +1045,7 @@
       }
     }
   },
-  "runs": 338,
-  "consecutive_failures": 1,
-  "last_ok": "2026-09-21T06:32:47+09:00",
-  "last_error": "RuntimeError: Cloudflare 차단 페이지에 걸림"
+  "runs": 339,
+  "consecutive_failures": 0,
+  "last_ok": "2026-09-21T06:58:04+09:00"
 }
